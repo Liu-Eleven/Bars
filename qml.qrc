@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>dialog.qml</file>
+        <file>button.qml</file>
+        <file>datachoose.qml</file>
+    </qresource>
+    <qresource lang="chinese" prefix="/a"/>
+</RCC>
